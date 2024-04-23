@@ -21,7 +21,7 @@ Welcome to my GitHub repository. I'm Pavun, a tech enthusiast passionate about D
 ## 🤝 Let's Connect
 
 - 💬 Reach out to me on [LinkedIn](https://www.linkedin.com/in/pavan-kumar-ch-a11003161) for collaboration and networking.
-- 🐦 Follow me on [Twitter](https://twitter.com/Pavun9848)) for the latest tech updates.
+- 🐦 Follow me on [Twitter](https://twitter.com/Pavun9848) for the latest tech updates.
 
 ## 🌟 Star if You Like!
 
