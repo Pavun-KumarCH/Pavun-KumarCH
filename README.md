@@ -14,9 +14,9 @@ Welcome to my GitHub repository. I'm Pavun, a tech enthusiast passionate about D
 
 ## 📂 Repository Contents
 
-- **[Project 1](Pavun-KumarCH/Skin-cancer-detection-VGG16-Model/):** Brief description of what the project does.
-- **[Project 2](project2/):** Another cool project I've been working on.
-- **[Notebooks](notebooks/):** Jupyter notebooks for data analysis and experiments.
+- **[Project 1 - Skin Cancer Detection VGG16 Model](https://github.com/Pavun-KumarCH/Skin-cancer-detection-VGG16-Model)**: Brief description of what the project does.
+- **[Project 2 - Librosa Speech Emotion Recognition](https://github.com/Pavun-KumarCH/Librosa-Speech-Emotion-Recognition)**: Another cool project I've been working on.
+- **[Notebooks - NLP Network Analytics Witcher Characters](https://github.com/Pavun-KumarCH/NLP-Network-Analytics-Witcher-Characters)**: Jupyter notebooks for data analysis and experiments.
 
 ## 🤝 Let's Connect
 
