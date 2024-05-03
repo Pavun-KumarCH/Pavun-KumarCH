@@ -28,8 +28,8 @@ Welcome to my GitHub repository. I'm Pavun, a tech enthusiast passionate about D
 
 ## My GitHub Profile [![GithHub](https://img.shields.io/github/forks/pavan-kumar-99/medium-manifests?style=social)](https://github.com/Pavun-KumarCH) 
 
-[![Pavan's github stats](https://github-readme-stats.vercel.app/api?username=pavan-kumar-99&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/Pavun-KumarCH)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavan-kumar-99&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/Pavun-KumarCH)
+[![Pavan's github stats](https://github-readme-stats.vercel.app/api?username=Pavun-KumarCH&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/Pavun-KumarCH)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavun-KumarCH&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/Pavun-KumarCH)
 
 
 ## 🌟 Star if You Like!
