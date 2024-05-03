@@ -26,6 +26,12 @@ Welcome to my GitHub repository. I'm Pavun, a tech enthusiast passionate about D
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-kumar-ch-a11003161)
 [![Medium](https://img.shields.io/static/v1?label=M&message=Medium&color=black)](https://medium.com/@pavun9848)
 
+## My GitHub Profile [![GithHub](https://img.shields.io/github/forks/pavan-kumar-99/medium-manifests?style=social)](https://github.com/Pavun-KumarCH) 
+
+[![Pavan's github stats](https://github-readme-stats.vercel.app/api?username=pavan-kumar-99&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/Pavun-KumarCH)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavan-kumar-99&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/Pavun-KumarCH)
+
+
 ## 🌟 Star if You Like!
 
 If you find anything interesting or useful in this repository, feel free to give it a star ⭐️. Your feedback and contributions are highly appreciated!
