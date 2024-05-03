@@ -31,6 +31,14 @@ Welcome to my GitHub repository. I'm Pavun, a tech enthusiast passionate about D
 [![Pavan's github stats](https://github-readme-stats.vercel.app/api?username=Pavun-KumarCH&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/Pavun-KumarCH)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavun-KumarCH&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/Pavun-KumarCH)
 
+## 🛠 Tech Stack
+
+#### Cloud Providers
+ 
+ <p float="left">
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
+ </p>
 
 ## 🌟 Star if You Like!
 
