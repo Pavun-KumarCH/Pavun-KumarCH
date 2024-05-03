@@ -21,6 +21,10 @@ Welcome to my GitHub repository. I'm Pavun, a tech enthusiast passionate about D
 
 - 💬 Reach out to me on [LinkedIn](https://www.linkedin.com/in/pavan-kumar-ch-a11003161) for collaboration and networking.
 - 🐦 Follow me on [Twitter](https://twitter.com/Pavun9848) for the latest tech updates.
+[![Medium](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://pavan1999-kumar.medium.com/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/pavan-kumar-99)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-kumar-ch-a11003161)
+[![Medium](https://img.shields.io/static/v1?label=M&message=Medium&color=black)](https://medium.com/@pavun9848)
 
 ## 🌟 Star if You Like!
 
