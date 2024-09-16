@@ -2,6 +2,7 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"  alt="Waving hand animated gif"height="45" width="45" />  Hi There</h1>
 
 Welcome to my GitHub repository. I'm Pavun, a tech enthusiast passionate about Data Science, AI, and Deep Learning. This repository is a playground for my coding adventures and experiments.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pavun-KumarCH&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /></p>
 
 ## 🚀 About Me
 
