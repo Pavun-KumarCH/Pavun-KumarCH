@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Pavun Kumar's Awesome Repository
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Pavun Kumar's Repository
 <h1 align="left"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"  alt="Waving hand animated gif"height="45" width="45" />  Hi There</h1>
 
 Welcome to my GitHub repository. I'm Pavun, a tech enthusiast passionate about Data Science, AI, and Deep Learning. This repository is a playground for my coding adventures and experiments.
